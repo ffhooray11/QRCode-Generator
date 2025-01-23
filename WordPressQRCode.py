@@ -40,7 +40,7 @@ def create_qr_with_logo(data, logo_path, output_filename):
 
 # WordPress QR Code with Logo
 create_qr_with_logo(
-    data="https://ffhooray.wordpress.com/2025/01/15/my-cloud-technology-projects-as-a-beginner/",  # Replace with your WordPress URL
+    data="https://your-wordpress-profile-url.com",  # Replace with your WordPress URL
     logo_path="wordpress_logo.png",  # Replace with your WordPress logo file name
     output_filename="wordpress_qrcode_with_logo.png",
 )
