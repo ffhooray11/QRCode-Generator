@@ -40,7 +40,7 @@ def create_qr_with_logo(data, logo_path, output_filename):
 
 # Credly QR Code with Logo
 create_qr_with_logo(
-    data="https://www.credly.com/users/ff",  # Replace with your Credly URL
+    data="https://your-credly-profile-url.com",  # Replace with your Credly URL
     logo_path="credly_logo.png",  # Replace with your Credly logo file name
     output_filename="credly_qrcode_with_logo.png",
 )
